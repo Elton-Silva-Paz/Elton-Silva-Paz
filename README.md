@@ -1,7 +1,6 @@
-<p align="center">
-  <img src="./assets/banner.png" alt="Banner Elton Silva Paz">
-</p>
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Elton-Silva-Paz/Elton-Silva-Paz/main/banner.png" alt="Banner Elton Silva Paz" width="100%"/>
+</div>
 <h1 align="center">Olá, eu sou Elton Silva Paz 👋</h1>
 
 <h3 align="center">
